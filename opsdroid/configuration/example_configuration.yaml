@@ -89,7 +89,7 @@ connectors:
     
     - name: slack
     # Required
-    api-token: "xoxb-252310124804-WHoXbhYwXeg7v71I6lalUYqz"
+    api-token: "  "
     # optional
     bot-name: "opsdroid"       # default "opsdroid"
     default-room: "#testbot" # default "#general"
